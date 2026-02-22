@@ -37,9 +37,6 @@ User
 Create `.env` file:
 
 
-gemini_class ='AIzaSyAFj4DTmwemTBigIkqn2A43b6w6fGboVng'
-
-
 Install dependencies:
 
 
